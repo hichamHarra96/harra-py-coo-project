@@ -1,1 +1,0 @@
-# harra-py-coo-project
